@@ -120,7 +120,7 @@
 Назва репозиторію: apz-pzpi-23-2-drobyshev-ivan
 Структура директорії практичного заняття:
 Pract2/
-pzpi-23-2-drobyshev-ivan-pract2.txt
+└── pzpi-23-2-drobyshev-ivan-pract2.txt
 
 3.8  Підготовка презентації та відеозапису
 

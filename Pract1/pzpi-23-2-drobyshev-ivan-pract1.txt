@@ -198,9 +198,9 @@ b. простий текстовий файл TXT з кодуванням UTF-8
 Назва репозиторію: apz-pzpi-23-2-drobyshev-ivan 
 Структура репозиторію: 
 Pract1/
-  pzpi-23-2-drobyshev-ivan-pract1/
-    Program.cs
-  pzpi-23-2-drobyshev-ivan-pract1.txt
+  ├── pzpi-23-2-drobyshev-ivan-pract1/
+  │   └── Program.cs
+  └── pzpi-23-2-drobyshev-ivan-pract1.txt
 README.md 
 LICENSE
 
